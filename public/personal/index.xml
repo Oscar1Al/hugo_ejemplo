@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal :: Web site Oscar</title>
+    <link>http://localhost:1313/personal/index.html</link>
+    <description>Sobre mi Esta pagina tiene informacion sobre mi&#xA;Este texto lo quiero en color rosa</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 13:37:29 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tema1</title>
+      <link>http://localhost:1313/personal/programacion/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:37:22 +0200</pubDate>
+      <guid>http://localhost:1313/personal/programacion/index.html</guid>
+      <description>Programacion Codigo de php&#xA;&lt;?php $a = rand(1,210): ?&gt;</description>
+    </item>
+    <item>
+      <title>Tema2</title>
+      <link>http://localhost:1313/personal/personal/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:37:24 +0200</pubDate>
+      <guid>http://localhost:1313/personal/personal/index.html</guid>
+      <description>Mis aficiones Comentario sobre las cosas que me gustan</description>
+    </item>
+    <item>
+      <title>Tema3</title>
+      <link>http://localhost:1313/personal/markdown/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:37:29 +0200</pubDate>
+      <guid>http://localhost:1313/personal/markdown/index.html</guid>
+      <description>Edición básica Títulos Para establecer los títulos usaré la siguiente sintaxis&#xA;#título1 ##título2 ###título3 ####título4 #####título5 ######título6 ---- y se verá Texto en negrita texto normal&#xA;título1 título2 título3 título4 título5 título6 Negrita y formato Para ver el texto en negrita escribo&#xA;**Texto en negrita** texto normal y se verá&#xA;Texto en negrita texto normal&#xA;Creando Para usar un short code debes de especificarlo son los siguientes metacaracteres&#xA;{{`&lt;&gt;}} accede a la web y se verá</description>
+    </item>
+  </channel>
+</rss>

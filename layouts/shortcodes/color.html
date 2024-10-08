@@ -1,0 +1,6 @@
+
+{{ $color := .Get "color" | default "green" }}
+
+<h3 style="color:{{$color}}">
+    {{.Inner}}
+</h3>
