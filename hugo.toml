@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/Oscar1Al/hugo_ejemplo.git'
+baseURL = 'https://github.com/Oscar1Al/hugo_ejemplo/'
 languageCode = 'en-us'
 title = 'Web site Oscar'
 theme ="relearn"
